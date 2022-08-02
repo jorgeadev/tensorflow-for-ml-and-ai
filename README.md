@@ -1,2 +1,2 @@
-# tensorflow_para_machine_learning_e_IA
+# Repository by Tensorflow for Machine Learning e Artificial Intelligence Udemy. Juan Gabriel Gomila Salas
 Complete course of tensorflow for machine learning and Artificial Inteligence...
